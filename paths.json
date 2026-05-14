@@ -3,6 +3,6 @@
     "/content/aem-boilerplate/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/aemfirstproject/"
   ]
 }

@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p52710-e1559444.adobeaemcloud.com/ui#/aem/"
+    url: "https://author-p52710-e1559444.adobeaemcloud.com/bin/franklin.delivery/sumya-tabassum/aemfirstproject/main"
     type: "markup"
     suffix: ".html"
